@@ -1,0 +1,12 @@
+{
+    "name": "roberto/formulario-de-contato",
+    "authors": [
+        {
+            "name": "Roberto Santos",
+            "email": "61866457+Gafanhoto-DevAndTester@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+    }
+}

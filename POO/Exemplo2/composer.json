@@ -1,0 +1,15 @@
+{
+    "autoload":{
+        "psr-4":{
+            "App\\" : "app/"
+        }
+    },
+    "name": "roberto/exemplo2",
+    "authors": [
+        {
+            "name": "Roberto Santos",
+            "email": "61866457+Gafanhoto-DevAndTester@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
